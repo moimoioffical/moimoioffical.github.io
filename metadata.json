@@ -1,0 +1,7 @@
+{
+  "name": "NaliboLearn",
+  "description": "An interactive language learning platform for the Nalibo conlang, featuring story-based lessons, sentence construction, and AI-powered speaking practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
